@@ -1,2 +1,3 @@
 # CodeWars
 This is where it all begins...
+Lets do some magic here
